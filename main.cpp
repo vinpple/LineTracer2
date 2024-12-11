@@ -1,4 +1,3 @@
-# LineTracer2
 
 #include "opencv2/opencv.hpp"
 #include <iostream>
@@ -86,7 +85,7 @@ int main() {
         }
 
         cvtColor(frame, gray, COLOR_BGR2GRAY);
-        threshold(gray, thresh, 150 255, THRESH_BINARY);
+        threshold(gray, thresh, 150, 255, THRESH_BINARY);
         Mat croppedThresh = thresh(roi);
 
         Mat labels, stats, centroids;
