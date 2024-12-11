@@ -2,6 +2,8 @@
 
 https://youtu.be/yN9DHyjrEjs?si=2J4B-x0-0sXSzrzR
 
+https://youtu.be/N9MKEoIQHDc?si=6Mp1-qmXvE9hSJ5O
+
 https://github.com/vinpple/LineTracer2/blob/4036997df9da68cef0922b58873df8a5038d170f/main.cpp#L33-L37
 
 다이나믹셀 초기화
